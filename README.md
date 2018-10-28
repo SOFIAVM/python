@@ -1,2 +1,2 @@
-# python-
-Ejercicios puthon
+# python
+Ejercicios python
