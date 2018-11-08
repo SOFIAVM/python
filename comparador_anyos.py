@@ -1,7 +1,7 @@
 # coding: utf​-8
 #Autora: Sofía 
 #Fecha creación: 07/11/18
-#Ejercicio: comparador_años.py
+#Ejercicio: comparador_anyos.py
 #Escriba un programa que pida el año actual y un año cualquiera y que escriba cuántos
 #años han pasado desde ese año o cuántos años faltan para llegar a ese año.
 #COMPARADOR DE AÑOS:
