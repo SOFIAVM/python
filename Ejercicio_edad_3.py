@@ -1,4 +1,4 @@
-# coding: utf​-8
+# coding: utf8
 #Autora: Sofía 
 #Fecha creación: 30/10/18
 #Ejercicio_edad_3.py
@@ -9,7 +9,7 @@
 
 edad = int(input("Escribe tu edad: ")
 if ( edad >= 18 and edad <= 23 ) or ( edad == 17 ) :
-	print("Puedes entrar a la sesión de jóvenes") 
+    print("Puedes entrar a la sesión de jóvenes") 
 
 else:
-	print("No puedes pasar")
+    print("No puedes pasar")
